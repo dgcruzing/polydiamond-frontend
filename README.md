@@ -1,4 +1,4 @@
-#Forked for research - do not invest with these Farms
+#Forked for research on farms
 # PolyCuban Frontend
 
 This project contains the main features of the PolyCuban application.
